@@ -1,4 +1,4 @@
-<img src="/pictures/closed_box.jpg" alt="closed ring box" height="200"> <img src="/pictures/open_box.jpg" alt="open ring box" height="124">
+<img src="/pictures/closed_box.jpg" alt="closed ring box" height="200"> <img src="/pictures/open_box.jpg" alt="open ring box" height="200">
 
 # Camera Equipped Ring Box
 
