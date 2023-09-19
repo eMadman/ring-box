@@ -35,7 +35,7 @@ This falls firmly into DIY territory and I very much encourage remixing and impr
 5. Tape or glue battery into enclosure in the available space
 6. Snap bottom cover
 7. Wire up NeoPixel onto GPIO headers.  Use the [Adafruit instructions](https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring#powering-neopixels-from-raspberry-pi-without-level-shifting-3006456).  Due to lack of space, I clipped some pins and bent back the relevant pins so that I could use dupont connectors.  Soldering will provide a much better connection.  
-<img src="/pictures/gpio.png" alt="gpio" height="200">
+  <img src="/pictures/gpio.png" alt="gpio" height="200">
 8. Glue neopixel onto diffuser and into pi_cover.stl
 9. Thread ribbon cable through pi_cover.stl and snap cover into place
 10. Screw camera module into camera_cover.stl
@@ -68,7 +68,7 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE Version 3, 29 Jun
 This project would not be possible without the following reference material:
 
 * [PiSugar3](https://github.com/PiSugar/PiSugar).  The case design was remixed from the PiSugar 3 enclosure.
-* [Picamera2 Documentation](https://github.com/raspberrypi/picamera2) 3 which provided the necessary hints to get this code working.
+* [Picamera2 Documentation](https://github.com/raspberrypi/picamera2) which provided the necessary hints to get this code working.
 * Adafruit's [NeoPixel on Raspberry Pi Tutorial](https://learn.adafruit.com/neopixels-on-raspberry-pi/overview) 
 * Microsoft's Bing Chat for helping me write and troubleshoot the python script
 
